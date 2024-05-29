@@ -94,5 +94,6 @@ This is not needed for the program to run, but if you wish to fetch new games to
   
 ### Contact us
 If you experience any trouble feel free to contact the developers on mail: mpauls23@student.aau.dk or phone: +45 23 43 90 23
-  ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNwZm8zemhzanFiNDExdWEyeWd4MGk4d2ZtbXB3MmY5NjI2MDZucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6vXNLzXdW4sbFRGo/giphy.gif)
+
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNwZm8zemhzanFiNDExdWEyeWd4MGk4d2ZtbXB3MmY5NjI2MDZucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6vXNLzXdW4sbFRGo/giphy.gif)
 
